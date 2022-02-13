@@ -1,0 +1,4 @@
+# every hour
+0 */1 * * * /home/vladdemo/Projects/python-education/bash/cron_time.sh
+# every day at 10:00
+0 10 */1 * * /home/vladdemo/Projects/python-education/bash/get_weather.sh
